@@ -94,9 +94,9 @@ The economic analysis estimates annual utility costs based on Aspen Plus simulat
 - Heat integration was evaluated based on reductions in utility demand rather than detailed exchanger network optimization.
 - The economic analysis is intended for relative comparison between operating conditions rather than absolute estimation of industrial production costs.
 
-Steam cost: $15/GJ
-Cooling water cost: $0.5/GJ
-Operating time: 8,000 h/year
+- Steam cost: $15/GJ
+- Cooling water cost: $0.5/GJ
+- Operating time: 8,000 h/year
 
 The economic analysis is therefore intended for **relative comparison between operating conditions** rather than prediction of the total cost of an industrial plant.
 
